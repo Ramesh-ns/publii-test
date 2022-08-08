@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://Ramesh-ns.github.io/publii-test/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<url>
+<loc>https://Ramesh-ns.github.io/publii-test/</loc>
+</url>
+<url>
+<loc>https://Ramesh-ns.github.io/publii-test/test-post.html</loc>
+<lastmod>2022-08-08T15:53:34-07:00</lastmod>
+<image:image>
+<image:loc>https://Ramesh-ns.github.io/publii-test/media/posts/1/Screen-Shot-2022-08-01-at-7.59.00-AM.png</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://Ramesh-ns.github.io/publii-test/test-post2.html</loc>
+<lastmod>2022-08-08T15:57:20-07:00</lastmod>
+<image:image>
+<image:loc>https://Ramesh-ns.github.io/publii-test/media/posts/2/diana-serbichenko-cwDvax4x4t8-unsplash.jpg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://Ramesh-ns.github.io/publii-test/test-post3.html</loc>
+<lastmod>2022-08-08T15:57:38-07:00</lastmod>
+<image:image>
+<image:loc>https://Ramesh-ns.github.io/publii-test/media/posts/3/maksym-tymchyk-PS2-9TYpAoU-unsplash.jpg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+</urlset>
